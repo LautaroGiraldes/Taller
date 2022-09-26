@@ -1,0 +1,4 @@
+"D:\CLion\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\Lautaro\Documents\UBA\2022 - 2do Cuatrimestre\Algoritmos y Estructura de Datos II\Taller\Labo01\AyED2-Labo01" -B "C:\Users\Lautaro\Documents\UBA\2022 - 2do Cuatrimestre\Algoritmos y Estructura de Datos II\Taller\Labo01\AyED2-Labo01\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Lautaro/Documents/UBA/2022 - 2do Cuatrimestre/Algoritmos y Estructura de Datos II/Taller/Labo01/AyED2-Labo01/cmake-build-debug

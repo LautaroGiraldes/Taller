@@ -1,0 +1,25 @@
+# ninja log v5
+27	599	6856021273857739	CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj	9db68abd077793a2
+32	886	6856021276718383	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.obj	68a0490bc2d43c75
+887	939	6856021277278501	libgtest_main.a	7b47945f53555fb7
+1	1028	6856021278148693	CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj	eac8dbf5cc1506c0
+29	4594	6856021313736652	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.obj	d89d3984b968aa8a
+4596	5672	6856021324589078	libgtest.a	633b32816dac35ec
+5672	7302	6856021340848705	tests_algobot.exe	fdc29c91ac58f69e
+4	1159	6856707485704042	CMakeFiles/tests_ejercitacion.dir/src/algobot.cpp.obj	db39f02c75577aae
+40	2677	6856707500897443	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.obj	a913699776bd8310
+2677	5199	6856707526083069	tests_ejercitacion.exe	20d7635a713c0cf9
+4	2572	6857481418922207	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.obj	a913699776bd8310
+2573	4953	6857481442717532	tests_ejercitacion.exe	20d7635a713c0cf9
+3	1876	6857487724985239	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.obj	a913699776bd8310
+1877	3659	6857487742829240	tests_ejercitacion.exe	20d7635a713c0cf9
+3	2364	6858510450755141	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.obj	a913699776bd8310
+2364	4700	6858510474120370	tests_ejercitacion.exe	20d7635a713c0cf9
+3	1920	6858512291463758	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.obj	a913699776bd8310
+1921	3767	6858512309934135	tests_ejercitacion.exe	20d7635a713c0cf9
+4	1988	6858557126987621	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.obj	a913699776bd8310
+1988	3826	6858557145371735	tests_ejercitacion.exe	20d7635a713c0cf9
+3	2016	6858560871871876	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.obj	a913699776bd8310
+2016	4135	6858560893061865	tests_ejercitacion.exe	20d7635a713c0cf9
+3	1964	6858564285908442	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.obj	a913699776bd8310
+1965	3758	6858564303832456	tests_ejercitacion.exe	20d7635a713c0cf9

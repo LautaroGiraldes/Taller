@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "uso_clases",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gtest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gtest-Debug-744b3fbbd2477295caa2.json",
+					"name" : "gtest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gtest_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gtest_main-Debug-f69626daef959a4f5774.json",
+					"name" : "gtest_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests_algobot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests_algobot-Debug-06b1e206e052045c401c.json",
+					"name" : "tests_algobot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests_ejercitacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests_ejercitacion-Debug-9f4bd47b3f16829a0f4e.json",
+					"name" : "tests_ejercitacion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lautaro/Documents/UBA/2022 - 2do Cuatrimestre/Algoritmos y Estructura de Datos II/Taller/Labo01/AyED2-Labo01/cmake-build-debug",
+		"source" : "C:/Users/Lautaro/Documents/UBA/2022 - 2do Cuatrimestre/Algoritmos y Estructura de Datos II/Taller/Labo01/AyED2-Labo01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
